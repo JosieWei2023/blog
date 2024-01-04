@@ -16,9 +16,6 @@ jobs:
   sync:
     name: Generate README
     runs-on: ubuntu-latest
-    env:
-      GITHUB_NAME: JosieWei2023 # Replace with the actual name or use a secret if it's sensitive
-      GITHUB_EMAIL: tinaweizq@outlook.com
     steps:
       - name: Checkout
         uses: actions/checkout@v3
