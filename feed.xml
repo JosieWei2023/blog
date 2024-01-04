@@ -1,8 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/JosieWei2023/blog</id><title>RSS feed of JosieWei2023's blog</title><updated>2024-01-04T21:07:35.909345+00:00</updated><author><name>JosieWei2023</name><email>tinaweizq@outlook.com</email></author><link href="https://github.com/JosieWei2023/blog"/><link href="https://raw.githubusercontent.com/JosieWei2023/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/JosieWei2023/blog/issues/3</id><title>test3</title><updated>2024-01-04T21:07:36.210854+00:00</updated><content type="html"><![CDATA[<h1>个人博客, 请<strong>不要</strong>提issue, 谢谢!</h1>
-<p>This repository is for personal blogging, please <strong>DO NOT</strong> submit issue, thanks!</p>
-]]></content><link href="https://github.com/JosieWei2023/blog/issues/3"/><published>2024-01-04T21:07:09+00:00</published></entry><entry><id>https://github.com/JosieWei2023/blog/issues/2</id><title>test2</title><updated>2024-01-04T21:07:36.346465+00:00</updated><content type="html"><![CDATA[<h1>个人博客, 请<strong>不要</strong>提issue, 谢谢!</h1>
-<p>This repository is for personal blogging, please <strong>DO NOT</strong> submit issue, thanks!</p>
-]]></content><link href="https://github.com/JosieWei2023/blog/issues/2"/><category term="Thoughts"/><published>2024-01-04T20:58:56+00:00</published></entry><entry><id>https://github.com/JosieWei2023/blog/issues/1</id><title>test!</title><updated>2024-01-04T21:07:36.482777+00:00</updated><content type="html"><![CDATA[<h1>个人博客, 请<strong>不要</strong>提issue, 谢谢!</h1>
-<p>This repository is for personal blogging, please <strong>DO NOT</strong> submit issue, thanks!</p>
-]]></content><link href="https://github.com/JosieWei2023/blog/issues/1"/><category term="Thoughts"/><published>2024-01-04T20:52:24+00:00</published></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/JosieWei2023/blog</id><title>RSS feed of JosieWei2023's blog</title><updated>2024-01-04T21:17:20.540405+00:00</updated><author><name>JosieWei2023</name><email>tinaweizq@outlook.com</email></author><link href="https://github.com/JosieWei2023/blog"/><link href="https://raw.githubusercontent.com/JosieWei2023/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/JosieWei2023/blog/issues/5</id><title>Life is Like a Linked List</title><updated>2024-01-04T21:17:20.720090+00:00</updated><content type="html"><![CDATA[<p><em>Written on Feb, 2023</em></p>
+<p>I'm not sure if it's due to frequently sharing my personal journey in videos, but recently, I've been getting private messages from people. They typically start by laying out their life stories, then, cutting straight to the chase, they ask: &quot;Do you think I'm fit to go abroad?&quot;</p>
+<p>I've never been one to direct others in their life choices. After all, if I'm unsure of the right path myself, how can I advise anyone else?</p>
+<p>Let me explain: I create videos mainly because I love to talk. More so, I aim to demonstrate how an ordinary woman, who once blindly followed the flow, immersing herself in studies and job hunting, can find a way to live when she no longer wishes to work.</p>
+<p><strong>My intent is to show, not to tell.</strong></p>
+<p>Perhaps my videos might inspire someone: To discover that life can be lived differently.</p>
+<p>But I genuinely have no desire to dictate others' choices. After all, how can anyone presume to find life's answers from someone else?</p>
+<p>I recall moving to Shanghai after graduating. My salary was modest then (and didn't improve much later). I lived in a small, restructured room in a resettlement building.</p>
+<p>My living space was cramped. I had to manage with a foldable table for meals and workouts, using it as a dining table or clearing it for a yoga mat.</p>
+<p>With no balcony, my freshly laundered clothes would hang in the bay window, dampening the room, especially during Shanghai's humid winters, making my bed feel almost drenched.</p>
+<p>Bathing in the cold required using a bathroom heater. Occasionally, excessive electricity use would cause a power outage mid-shower, leaving me waiting silently in the dark for a neighbor to restore the power.</p>
+<p>In December 2017, as Beijing addressed the issue of partitioned housing, many found themselves homeless overnight. Watching this unfold from Shanghai, I would lie awake, tears streaming down my face, pondering my fate if I were in their shoes.</p>
+<p>What are we truly living for?</p>
+<p><strong>Each day, I felt like I was floating in limbo, having moved to a big city, staying in a modest rental, convincing myself that all my current struggles were for a future goal.</strong></p>
+<p>I believed in hard work, knowing that without effort, my future aspirations would remain unfulfilled. Every present moment seemed insignificant, merely a stepping stone to my ultimate aim.</p>
+<p>Recently, while studying single linked lists, I gleaned an insight: In both linked lists and life, the only thing we truly control is the 'current' node.</p>
+<p>The future is a mystery, akin to driving in the dark.</p>
+<p>Each of us navigates through life, traversing node by node.</p>
+<p>Once you understand the value of each node, the linked list that is life reaches its conclusion, by which time the paths to our past have long faded.</p>
+<p>Life, much like a single linked list, doesn't offer second chances. This is why I constantly remind myself: Life comes with singular possibilities, and every path demands its own sacrifice.</p>
+]]></content><link href="https://github.com/JosieWei2023/blog/issues/5"/><published>2024-01-04T21:16:59+00:00</published></entry></feed>
