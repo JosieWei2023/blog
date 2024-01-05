@@ -8,5 +8,4 @@
 - Email：[tinaweizq@outlook.com](mailto:tinaweizq@outlook.com)
 
 ## Latest
-- [test again](https://github.com/JosieWei2023/blog/issues/6)--2024-01-04
 - [Life is Like a Linked List](https://github.com/JosieWei2023/blog/issues/5)--2024-01-04
