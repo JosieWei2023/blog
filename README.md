@@ -8,5 +8,6 @@
 - Email：[tinaweizq@outlook.com](mailto:tinaweizq@outlook.com)
 
 ## Latest
+- [The Art of Using Household Appliances](https://github.com/JosieWei2023/blog/issues/8)--2024-01-08
 - [One Person, One Kill](https://github.com/JosieWei2023/blog/issues/7)--2024-01-08
 - [Life is Like a Linked List](https://github.com/JosieWei2023/blog/issues/5)--2024-01-04
