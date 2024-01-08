@@ -1,5 +1,7 @@
 # [one person, one kill](https://github.com/JosieWei2023/blog/issues/7)
 
+*Written on November, 2021*
+
 During a department meeting, a male leader inquired about my relationship status. Upon learning I had a boyfriend, he half-jokingly remarked, "You do realize that in our department, the approval of female staff's partners has to go through me, right?"
 
 No one present identified this as sexual harassment. In fact, some perceived him as showing genuine concern for his subordinates.
