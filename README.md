@@ -8,4 +8,5 @@
 - Email：[tinaweizq@outlook.com](mailto:tinaweizq@outlook.com)
 
 ## Latest
+- [one person, one kill](https://github.com/JosieWei2023/blog/issues/7)--2024-01-08
 - [Life is Like a Linked List](https://github.com/JosieWei2023/blog/issues/5)--2024-01-04
