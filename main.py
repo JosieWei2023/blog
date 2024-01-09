@@ -12,11 +12,12 @@ from marko.ext.gfm import gfm as marko
 MD_HEAD = """**<p align="center">Josie's Blog</p>**
 ====
 
-**<p align="center">Personal Thoughts</p>**
+**<p align="center">My Personal Thoughts</p>**
 
 
 ## Contact Me
 - Email：[tinaweizq@outlook.com](mailto:tinaweizq@outlook.com)
+- Linkedin：[Josie Wei](https://www.linkedin.com/in/josie-wei/)
 """
 
 BACKUP_DIR = "backup"
